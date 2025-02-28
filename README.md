@@ -16,7 +16,8 @@
 
 Run the following commands to install dependencies:  
 
-```bash
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install aircrack-ng hostapd dnsmasq -y
 pip install colorama
+12.png
