@@ -16,6 +16,21 @@
 
 Run the following commands to install dependencies:  
 
+
+
+![Screenshot 2025-02-28 192241](https://github.com/user-attachments/assets/05795a79-612c-421a-9c65-f07ce8d6d907)
+
+
+![12](https://github.com/user-attachments/assets/2f2229f0-a38d-4b1c-a146-ea9c9c395e9c)
+
+
+![Screenshot 2025-02-28 192322](https://github.com/user-attachments/assets/e75a174e-1348-456f-a8e7-836f520f47ce)
+
+
+
+![Screenshot 2025-02-28 192332](https://github.com/user-attachments/assets/14ec091c-fca6-48a6-a8f6-976e8139077c)
+
+
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install aircrack-ng hostapd dnsmasq -y
