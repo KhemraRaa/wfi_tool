@@ -35,4 +35,7 @@ Run the following commands to install dependencies:
 sudo apt update && sudo apt upgrade -y
 sudo apt install aircrack-ng hostapd dnsmasq -y
 pip install colorama
+git clone https://github.com/KhemraRaa/wfi_tool.git
+cd wfi_tool
+sudo python3 khemra_tool.py
 
